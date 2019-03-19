@@ -115,7 +115,7 @@ public:
 			cin >> x;
 		} while (x != 'N');
 		return gettotal();
-	}
+	} 
 };
 int main() {
 	int chooice1, chooice2,day;
